@@ -1,6 +1,9 @@
 <resources>
-    <string name="app_name">KnittingShow</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">Довяжу и покажу</string>
+    <string name="title_home">Главная</string>
+    <string name="title_dashboard">Добавить</string>
+    <string name="title_notifications">Профиль</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
